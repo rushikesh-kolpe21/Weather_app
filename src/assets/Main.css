@@ -1,0 +1,12 @@
+body{
+
+    background-image: url('https://pics.craiyon.com/2023-11-16/BjUZcXlZRQWOWgYFMXELWw.webp');
+    background-size: cover;
+    /* background-position: center; */
+    height: 100vh;
+  }
+
+  .SearchBox h3{
+    color: yellow;
+  }
+  
